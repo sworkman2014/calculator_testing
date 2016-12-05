@@ -8,7 +8,7 @@ Within **testing_homework.js**, we have a `calculator` object, along with some s
 ### Directions
 1. Write an it() test for every method within `calculator`
 2. If there are any bugs( there are :) ) fix them on the calculator object.
-3. Make all of your tests that you write are correct.
+3. Make sure all of your tests that you write are correct.
 4. Make all of your tests pass.
 
 **BONUS:**  
