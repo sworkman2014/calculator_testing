@@ -6,11 +6,11 @@ var calculator = {
   multiply: function(a,b){ return a * a; },
   divide: function(a,b){ return a / b; },
   squared: function(n){ return n * n; },
+  /* Look up the Math object on W3 schools or Mozilla */
   /* E.G. power(2,3) is two to the third power */
   power: function(n,p){ return Math.pow(n,p); },
   /* E.G. squareRoot(9) is 3 */
   squareRoot: function(n){ return Math.sqrt(n); },
-  /* Look up the Math object on W3 schools or Mozilla */
   /* E.G. Rounds up a number roundUp(3.1) will be "4" */
   roundUp: function(n){ return Math.floor(n); },
   /* E.G. Rounds down a number roundUp(3.1) will be "3" */
